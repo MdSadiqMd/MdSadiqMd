@@ -2,10 +2,6 @@
 <h3 align="center">A passionate frontend developer from India</h3
 <img align="right" alt="Programming" width="400" src="img.freepik.com/free-vector/male-programmer-working-computer-office-wall-with-hanging-reminder-stickers-developer-creating-new-software-interface-coding-programming-system-administrator-designer-character_575670-1159.jpg?w=900&t=st=1671965200~exp=1671965800~hmac=5da8449eaaf236aea9b09e4fadb4bdbb90f8fe310f09342bd43215ee828a3824> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdsadiqmd&label=Profile%20views&color=0e75b6&style=flat" alt="mdsadiqmd" /> </p>
-
-<p align="left"> <a href="https://twitter.com/md_sadiq_md" target="blank"><img src="https://img.shields.io/twitter/follow/md_sadiq_md?logo=twitter&style=for-the-badge" alt="md_sadiq_md" /></a> </p>
-
 - 🌱 I’m currently learning **Web Devolopment**
 
 - 📫 How to reach me **mohammadsadiq4950@gmail.com**
