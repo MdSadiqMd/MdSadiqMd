@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md.Sadiq</h1>
 <h3 align="center">A Self-taught Programmer from India</h3>
-<img align="right" alt="Coding" width="400" src="C:\Users\Sadiq\Downloads\25273349_programmer_v_02-removebg.png">
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=996&t=st=1671969288~exp=1671969888~hmac=a9c3e69d1d8c98848110de405184d698950709dc913efe11c64881e55545a312">
 
 - 🔭 I’m currently working on **JavaScript**
 
