@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md.Sadiq</h1>
 <h3 align="center">A Self-taught Programmer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/male-programmer-working-computer-office-wall-with-hanging-reminder-stickers-developer-creating-new-software-interface-coding-programming-system-administrator-designer-character_575670-1159.jpg?w=900&t=st=1671965200~exp=1671965800~hmac=5da8449eaaf236aea9b09e4fadb4bdbb90f8fe310f09342bd43215ee828a3824">
+<img align="right" alt="Coding" width="400" src="C:\Users\Sadiq\Downloads\25273349_programmer_v_02-removebg.png">
 
 - 🔭 I’m currently working on **JavaScript**
 
