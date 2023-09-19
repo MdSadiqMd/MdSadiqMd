@@ -8,6 +8,8 @@
 
 - 👨‍💻 All of my projects are available at My GitHub account [https://github.com/MdSadiqMd](https://github.com/MdSadiqMd)
 
+- 📝 You can read My Blogs at My Hahnode [https://mdsadiqmd.hashnode.dev/](https://mdsadiqmd.hashnode.dev/)
+
 - 📫 Reachout to me at **mohammadsadiq4950@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
