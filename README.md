@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Md.Sadiq</h1>
 <h3 align="center">A passionate Problem Solver from India</h3>
-<img align="right" alt="coding" width="400" src="https://iconscout.com/lottie/male-programmer-doing-coding-work-9560195">
+<img align="right" alt="coding" width="400" src="./9233855_4110955.jpg">
 
 
 - 🔭 I’m currently working on **Backend Stuff**
 
 - 🌱 I’m currently learning **Web Devolopment**
 
-- 📝 I regularly write articles on [https://mdsadiqmd.hashnode.dev/](https://mdsadiqmd.hashnode.dev/)
+- 📝 Check out My blogs at [https://mdsadiqmd.hashnode.dev/](https://mdsadiqmd.hashnode.dev/)
 
 - 📫 Reachout to me at **mohammadsadiq4950@gmail.com**
 
