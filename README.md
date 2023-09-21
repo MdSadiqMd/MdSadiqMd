@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md.Sadiq</h1>
 <h3 align="center">A passionate Problem Solver from India</h3>
-<img align="right" alt="coding" width="400" src="./9233855_4110955.jpg">
+<img align="right" alt="coding" width="400" src="./GIF_Coding.png">
 
 
 - 🔭 I’m currently working on **Backend Stuff**
