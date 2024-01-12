@@ -11,8 +11,6 @@
 
 - 📫 Reachout to me at **mohammadsadiq4950@gmail.com**
 
-- ⚡ Fun fact : **Programming is like a joke; you won't get it until it compiles.**
-
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/md_sadiq_md" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="md_sadiq_md" height="30" width="40" /></a>
