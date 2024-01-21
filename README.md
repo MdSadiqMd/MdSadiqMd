@@ -10,12 +10,12 @@
 <h2 align="left">Connect with me:</h2>
 <p align="left">
   <a href="https://twitter.com/md_sadiq_md" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="md_sadiq_md" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/sadiq mohammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadiq mohammad" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/sadiq-mohammad-2b256b227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadiq mohammad" height="30" width="40" /></a>
   <a href="https://mdsadiqmd.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="mdsadiqmd.hashnode.dev" height="30" width="40" /></a>
   <a href="https://instagram.com/md_sadiq_md" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="md_sadiq_md" height="30" width="40" /></a>
 </p>
 
-<a href="https://github.com/mdsadiqmd/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/mdsadiqmd/github-profile-trophy"><h2>🏆 GitHub Profile Trophy</h2></a>
 <a href="https://github.com/mdsadiqmd/github-profile-trophy"><img width=800 src="https://github-profile-trophy.vercel.app/?username=mdsadiqmd&column=8&theme=gruvbox&no-frame=true"/></a>
 
 <h2 align="left">Languages and Tools:</h2>
