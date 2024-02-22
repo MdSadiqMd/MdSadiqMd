@@ -15,9 +15,6 @@
   <a href="https://instagram.com/md_sadiq_md" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="md_sadiq_md" height="30" width="40" /></a>
 </p>
 
-<a href="https://github.com/mdsadiqmd/github-profile-trophy"><h2>🏆 GitHub Profile Trophy</h2></a>
-<a href="https://github.com/mdsadiqmd/github-profile-trophy"><img width=800 src="https://github-profile-trophy.vercel.app/?username=mdsadiqmd&column=8&theme=gruvbox&no-frame=true"/></a>
-
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
 <a href="https://www.java.com" target="_blank" rel="no-referrer">
@@ -165,5 +162,8 @@
 </a>
 
 </p>
+
+<a href="https://github.com/mdsadiqmd/github-profile-trophy"><h2>🏆 GitHub Profile Trophy</h2></a>
+<a href="https://github.com/mdsadiqmd/github-profile-trophy" style='flex'><img width=800 src="https://github-profile-trophy.vercel.app/?username=mdsadiqmd&column=8&theme=gruvbox&no-frame=true"/></a>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsadiqmd&layout=compact&theme=tokyonight" alt="mdsadiqmd" /></p>
