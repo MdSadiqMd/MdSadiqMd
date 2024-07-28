@@ -52,11 +52,11 @@
 -->
 
 <a href="https://www.w3.org/html/" target="_blank" rel="no-referrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://github.com/user-attachments/assets/32c5d350-350a-41f7-8acd-928c8a1d108e" alt="html5" width="40" height="40"/>
 </a>
 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="no-referrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://github.com/user-attachments/assets/57ee27a6-159f-4c01-a35b-858ef6bf8d3c" alt="css3" width="40" height="40"/>
 </a>
 
 <a href="https://tailwindcss.com/" target="_blank" rel="no-referrer">
