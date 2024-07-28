@@ -129,12 +129,12 @@
   <img src="https://github.com/user-attachments/assets/9047213d-52b5-49fd-ad31-b34f0a7a9cee" alt="Kafka" width="40" height="40"/>
 </a>
 
-<a href="https://bullmq.io/" target="_blank" rel="no-referrer">
-  <img src="https://github.com/user-attachments/assets/a08ec349-707b-4940-9ba0-c9e499a9e6f5" alt="Bull MQ" width="40" height="30"/>
-</a>
-
 <a href="https://www.rabbitmq.com" target="_blank" rel="no-referrer">
   <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="30" height="30"/>
+</a>
+
+<a href="https://bullmq.io/" target="_blank" rel="no-referrer">
+  <img src="https://github.com/user-attachments/assets/a08ec349-707b-4940-9ba0-c9e499a9e6f5" alt="Bull MQ" width="40" height="30"/>
 </a>
 
 <a href="https://www.docker.com/" target="_blank" rel="no-referrer">
@@ -149,6 +149,10 @@
   <img src="https://github.com/user-attachments/assets/7d00d2a8-7c9a-4642-8f46-c08ffdccbc6c" alt="nginx" width="40" height="40"/>
 </a>
 
+<a href="https://grafana.com/" target="_blank" rel="no-referrer">
+  <img src="https://github.com/user-attachments/assets/54fc343f-bf65-4051-8e2a-80ca2d6d2044" alt="grafana" width="40" height="40"/>
+</a>
+
 <a href="https://aws.amazon.com/" target="_blank" rel="no-referrer">
   <img src="https://github.com/user-attachments/assets/41953985-84b9-4947-a331-12ebbb79717e" alt="aws" width="40" height="40"/>
 </a>
@@ -161,8 +165,8 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </a>
 
-<a href="https://www.linux.org/" target="_blank" rel="no-referrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="no-referrer">
+  <img src="https://github.com/user-attachments/assets/cdc8ff89-6b46-4de9-933b-cc829f440152" alt="Bash" width="40" height="40"/>
 </a>
 
 <a href="https://postman.com" target="_blank" rel="no-referrer">
