@@ -164,6 +164,6 @@
 </p>
 
 <a href="https://github.com/mdsadiqmd/github-profile-trophy"><h2>🏆 GitHub Profile Trophy</h2></a>
-<a href="https://github.com/mdsadiqmd/github-profile-trophy" style='flex'><img width=800 src="https://github-profile-trophy.vercel.app/?username=mdsadiqmd&column=8&theme=gruvbox&no-frame=true"/></a>
+<a href="https://github.com/mdsadiqmd/github-profile-trophy" style='flex'><img width=800 src="https://github-profile-trophy.vercel.app/?username=mdsadiqmd&row=2&column=5&theme=gruvbox&no-frame=true"/></a>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsadiqmd&layout=compact&theme=tokyonight" alt="mdsadiqmd" /></p>
