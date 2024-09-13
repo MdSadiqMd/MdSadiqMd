@@ -120,7 +120,7 @@
 </a>
 
 <a href="https://fastify.dev/" target="_blank" rel="no-referrer">
-  <img src="https://github.com/user-attachments/assets/3e084e1e-cece-490c-9c05-f0cf8a2200e3" alt="fastify" width="40" height="40"/>
+  <img src="https://github.com/user-attachments/assets/98b9d7c6-9e45-4f59-9995-eb3490adf478" alt="fastify" width="40" height="40"/>
 </a>
 
 <!--
