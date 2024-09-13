@@ -83,16 +83,24 @@
   <img src="https://github.com/user-attachments/assets/a16ceeef-a0dd-4635-9634-e87f56b5084e" alt="MongoDB" width="40" height="40"/>
 </a>
 
-<a href="https://www.mysql.com/" target="_blank" rel="no-referrer">
-  <img src="https://github.com/user-attachments/assets/28425577-be5d-44af-9471-5357c33c1edb" alt="MySQL" width="40" height="40"/>
-</a>
-
 <a href="https://redis.io" target="_blank" rel="no-referrer">
   <img src="https://github.com/user-attachments/assets/1a412053-1790-4404-b517-3b67f56d4d69" alt="redis" width="40" height="40"/>
 </a>
 
 <a href="https://www.postgresql.org" target="_blank" rel="no-referrer">
   <img src="https://github.com/user-attachments/assets/d4244519-7957-457d-b210-f709bedc12dd" alt="PostgreSQL" width="40" height="40"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank" rel="no-referrer">
+  <img src="https://github.com/user-attachments/assets/28425577-be5d-44af-9471-5357c33c1edb" alt="MySQL" width="40" height="40"/>
+</a>
+
+<a href="https://sequelize.org/" target="_blank" rel="no-referrer">
+  <img src="https://github.com/user-attachments/assets/ddb3b5e1-ee1c-4df7-b975-b5fb5091c27a" alt="sequelize" width="40" height="40"/>
+</a>
+
+<a href="https://www.prisma.io/orm" target="_blank" rel="no-referrer">
+  <img src="https://github.com/user-attachments/assets/07d82b1d-3806-49ba-972d-a3249034be64" alt="Prisma ORM" width="40" height="40"/>
 </a>
 
 <a href="https://nodejs.org" target="_blank" rel="no-referrer">
@@ -123,6 +131,14 @@
 
 <a href="https://turbo.build/" target="_blank" rel="no-referrer">
   <img src="https://github.com/user-attachments/assets/b401cb67-2734-45e3-8acc-e9a7e07fb35a" alt="Turbo Repo" width="35" height="35"/>
+</a>
+
+<a href="https://trpc.io/" target="_blank" rel="no-referrer">
+  <img src="https://github.com/user-attachments/assets/fee03715-1a39-4967-95db-a2d6c0e97412" alt="tRPC" width="40" height="40"/>
+</a>
+
+<a href="https://trpc.io/" target="_blank" rel="no-referrer">
+  <img src="https://github.com/user-attachments/assets/08efedc3-a2de-447f-a191-1c5cd12f5ec1" alt="gRPC" width="50" height="35"/>
 </a>
 
 <a href="https://kafka.apache.org/" target="_blank" rel="no-referrer">
