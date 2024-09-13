@@ -75,6 +75,14 @@
   <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
 </a>
 
+<a href="https://webpack.js.org/" target="_blank" rel="no-referrer">
+  <img src="https://github.com/user-attachments/assets/235c7cbd-332f-4290-831b-04c0a410385c" alt="webpack" width="35" height="35"/>
+</a>
+
+<a href="https://vitejs.dev/" target="_blank" rel="no-referrer">
+  <img src="https://github.com/user-attachments/assets/4ab30d1c-5dc2-4e62-91b7-cd75f1dfc241" alt="vite" width="35" height="35"/>
+</a>
+
 <a href="https://firebase.google.com/" target="_blank" rel="no-referrer">
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
 </a>
@@ -133,11 +141,15 @@
   <img src="https://github.com/user-attachments/assets/b401cb67-2734-45e3-8acc-e9a7e07fb35a" alt="Turbo Repo" width="35" height="35"/>
 </a>
 
+<a href="https://www.cloudflare.com/" target="_blank" rel="no-referrer">
+  <img src="https://github.com/user-attachments/assets/14dfc38a-8cba-4abd-8e44-7875bb5892dc" alt="Cloudfare" width="35" height="35"/>
+</a>
+
 <a href="https://trpc.io/" target="_blank" rel="no-referrer">
   <img src="https://github.com/user-attachments/assets/fee03715-1a39-4967-95db-a2d6c0e97412" alt="tRPC" width="40" height="40"/>
 </a>
 
-<a href="https://trpc.io/" target="_blank" rel="no-referrer">
+<a href="https://www.cloudflare.com/" target="_blank" rel="no-referrer">
   <img src="https://github.com/user-attachments/assets/08efedc3-a2de-447f-a191-1c5cd12f5ec1" alt="gRPC" width="50" height="35"/>
 </a>
 
@@ -165,16 +177,20 @@
   <img src="https://github.com/user-attachments/assets/7d00d2a8-7c9a-4642-8f46-c08ffdccbc6c" alt="nginx" width="40" height="40"/>
 </a>
 
+<a href="https://prometheus.io/" target="_blank" rel="no-referrer">
+  <img src="https://github.com/user-attachments/assets/86ccb4c1-05e0-4890-b9b9-5fc83cea392f" alt="Prometheus" width="40" height="40"/>
+</a>
+
 <a href="https://grafana.com/" target="_blank" rel="no-referrer">
   <img src="https://github.com/user-attachments/assets/54fc343f-bf65-4051-8e2a-80ca2d6d2044" alt="grafana" width="40" height="40"/>
 </a>
 
 <a href="https://aws.amazon.com/" target="_blank" rel="no-referrer">
-  <img src="https://github.com/user-attachments/assets/41953985-84b9-4947-a331-12ebbb79717e" alt="aws" width="40" height="40"/>
+  <img src="https://github.com/user-attachments/assets/09ec87ad-29d9-4608-b0c5-0d039e18baf2" alt="aws" width="40" height="40"/>
 </a>
 
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="no-referrer">
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+  <img src="https://github.com/user-attachments/assets/5b584f4e-a744-4f6e-86c9-df645fccc83d" alt="azure" width="35" height="35"/>
 </a>
 
 <a href="https://git-scm.com/" target="_blank" rel="no-referrer">
@@ -194,6 +210,9 @@
   <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
 </a>
 -->
+<a href="https://www.ni.com/en/support/downloads/software-products/download.labview.html#544096" target="_blank" rel="no-referrer">
+  <img src="https://github.com/user-attachments/assets/15ee00bc-10b0-4706-b9f8-6f16bc846c62" alt="labview" width="40" height="40"/>
+</a>
 
 <a href="https://www.arduino.cc/" target="_blank" rel="no-referrer">
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
