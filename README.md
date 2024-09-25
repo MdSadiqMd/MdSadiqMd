@@ -33,12 +33,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </a>
 
-<a href="https://go.dev/" target="_blank" rel="no-referrer">
-  <img src="https://github.com/user-attachments/assets/6cf4230b-cb8d-47fb-b826-b356fb8ca292" alt="gloang" width="40" height="40"/>
-</a>
-
 <a href="https://www.rust-lang.org" target="_blank" rel="no-referrer">
   <img src="https://rustacean.net/assets/cuddlyferris.svg" alt="rust" width="40" height="40"/>
+</a>
+
+<a href="https://go.dev/" target="_blank" rel="no-referrer">
+  <img src="https://github.com/user-attachments/assets/6cf4230b-cb8d-47fb-b826-b356fb8ca292" alt="gloang" width="40" height="40"/>
 </a>
 
 <a href="https://www.mathworks.com/" target="_blank" rel="no-referrer">
