@@ -2,8 +2,8 @@
 <h3 align="center">A passionate Problem Solver from India</h3>
 <img align="right" alt="coding" width="400" src="./GIF_Coding.png">
 
-- 🔭 I’m currently working on **Backend Stuff**
-- 🌱 I'm Currently learning **AWS**
+- 🔭 I’m currently working on **Automize**
+- 🌱 I'm Currently learning **gRPC**
 - 📝 Check out My blogs on [Hashnode](https://mdsadiqmd.hashnode.dev/)
 - 📫 Reach out to me at **mohammadsadiq4950@gmail.com**
 
