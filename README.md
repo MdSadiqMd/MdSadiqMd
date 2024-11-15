@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/d14bfbab-aa65-428d-ad28-31d6f873826d">
 
 - 🔭 I’m currently working on **Cloud**
-- 🌱 I'm Currently learning **gRPC**
+- 🌱 I'm Currently learning **Golang (Microservices)**
 - 📝 Check out My blogs on [Hashnode](https://mdsadiqmd.hashnode.dev/)
 - 📫 Reach out to me at **mohammadsadiq4950@gmail.com**
 
