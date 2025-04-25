@@ -84,7 +84,7 @@
 </a>
 
 <a href="https://firebase.google.com/" target="_blank" rel="no-referrer">
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  <img src="https://github.com/user-attachments/assets/a857817e-d202-4815-9b9c-e810e325b7ab" alt="firebase" width="40" height="40"/>
 </a>
 
 <a href="https://www.mongodb.com/" target="_blank" rel="no-referrer">
