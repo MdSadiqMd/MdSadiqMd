@@ -25,16 +25,16 @@
   <img src="https://github.com/user-attachments/assets/6cf4230b-cb8d-47fb-b826-b356fb8ca292" alt="gloang" width="40" height="40"/>
 </a>
 
+<a href="https://www.rust-lang.org" target="_blank" rel="no-referrer">
+  <img src="https://rustacean.net/assets/cuddlyferris.svg" alt="rust" width="40" height="40"/>
+</a>
+
 <a href="https://www.typescriptlang.org/" target="_blank" rel="no-referrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="35"/>
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="no-referrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="35"/>
-</a>
-
-<a href="https://www.rust-lang.org" target="_blank" rel="no-referrer">
-  <img src="https://rustacean.net/assets/cuddlyferris.svg" alt="rust" width="40" height="40"/>
 </a>
 
 <a href="https://www.java.com" target="_blank" rel="no-referrer">
@@ -45,15 +45,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </a>
 
+<!--
 <a href="https://www.mathworks.com/" target="_blank" rel="no-referrer">
   <img src="https://img.icons8.com/?size=100&id=r5Y16PcDkoWI&format=png&color=000000" alt="Matlab" width="40" height="40"/>
 </a>
 
-<!--
 <a href="https://kotlinlang.org" target="_blank" rel="no-referrer">
   <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
 </a>
--->
 
 <a href="https://www.w3.org/html/" target="_blank" rel="no-referrer">
   <img src="https://github.com/user-attachments/assets/32c5d350-350a-41f7-8acd-928c8a1d108e" alt="html5" width="40" height="40"/>
@@ -62,6 +61,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="no-referrer">
   <img src="https://github.com/user-attachments/assets/57ee27a6-159f-4c01-a35b-858ef6bf8d3c" alt="css3" width="40" height="40"/>
 </a>
+-->
 
 <a href="https://tailwindcss.com/" target="_blank" rel="no-referrer">
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
@@ -69,6 +69,10 @@
 
 <a href="https://reactjs.org/" target="_blank" rel="no-referrer">
   <img src="https://github.com/user-attachments/assets/97c27788-fcdd-4491-8dd8-64a3dd359183" alt="react" width="40" height="40"/>
+</a>
+
+<a href="https://vitejs.dev/" target="_blank" rel="no-referrer">
+  <img src="https://github.com/user-attachments/assets/4ab30d1c-5dc2-4e62-91b7-cd75f1dfc241" alt="vite" width="35" height="35"/>
 </a>
 
 <a href="https://redux.js.org" target="_blank" rel="no-referrer">
@@ -81,10 +85,6 @@
 
 <a href="https://webpack.js.org/" target="_blank" rel="no-referrer">
   <img src="https://github.com/user-attachments/assets/235c7cbd-332f-4290-831b-04c0a410385c" alt="webpack" width="35" height="35"/>
-</a>
-
-<a href="https://vitejs.dev/" target="_blank" rel="no-referrer">
-  <img src="https://github.com/user-attachments/assets/4ab30d1c-5dc2-4e62-91b7-cd75f1dfc241" alt="vite" width="35" height="35"/>
 </a>
 
 <a href="https://www.postgresql.org" target="_blank" rel="no-referrer">
@@ -206,7 +206,7 @@
 </a>
 
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="no-referrer">
-  <img src="https://github.com/user-attachments/assets/5b584f4e-a744-4f6e-86c9-df645fccc83d" alt="azure" width="35" height="35"/>
+  <img src="https://github.com/user-attachments/assets/5b584f4e-a744-4f6e-86c9-df645fccc83d" alt="azure" width="34" height="33"/>
 </a>
 
 <a href="https://www.linux.org/" target="_blank" rel="no-referrer">
