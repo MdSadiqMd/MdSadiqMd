@@ -21,16 +21,16 @@
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
+<a href="https://go.dev/" target="_blank" rel="no-referrer">
+  <img src="https://github.com/user-attachments/assets/6cf4230b-cb8d-47fb-b826-b356fb8ca292" alt="gloang" width="40" height="40"/>
+</a>
+
 <a href="https://www.typescriptlang.org/" target="_blank" rel="no-referrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="35"/>
 </a>
 
 <a href="https://www.rust-lang.org" target="_blank" rel="no-referrer">
   <img src="https://rustacean.net/assets/cuddlyferris.svg" alt="rust" width="40" height="40"/>
-</a>
-
-<a href="https://go.dev/" target="_blank" rel="no-referrer">
-  <img src="https://github.com/user-attachments/assets/6cf4230b-cb8d-47fb-b826-b356fb8ca292" alt="gloang" width="40" height="40"/>
 </a>
 
 <a href="https://www.java.com" target="_blank" rel="no-referrer">
@@ -87,6 +87,10 @@
   <img src="https://github.com/user-attachments/assets/4ab30d1c-5dc2-4e62-91b7-cd75f1dfc241" alt="vite" width="35" height="35"/>
 </a>
 
+<a href="https://www.postgresql.org" target="_blank" rel="no-referrer">
+  <img src="https://github.com/user-attachments/assets/d4244519-7957-457d-b210-f709bedc12dd" alt="PostgreSQL" width="40" height="40"/>
+</a>
+
 <a href="https://firebase.google.com/" target="_blank" rel="no-referrer">
   <img src="https://github.com/user-attachments/assets/a857817e-d202-4815-9b9c-e810e325b7ab" alt="firebase" width="40" height="40"/>
 </a>
@@ -97,10 +101,6 @@
 
 <a href="https://redis.io" target="_blank" rel="no-referrer">
   <img src="https://github.com/user-attachments/assets/1a412053-1790-4404-b517-3b67f56d4d69" alt="redis" width="40" height="40"/>
-</a>
-
-<a href="https://www.postgresql.org" target="_blank" rel="no-referrer">
-  <img src="https://github.com/user-attachments/assets/d4244519-7957-457d-b210-f709bedc12dd" alt="PostgreSQL" width="40" height="40"/>
 </a>
 
 <a href="https://www.mysql.com/" target="_blank" rel="no-referrer">
@@ -117,6 +117,10 @@
 
 <a href="https://nodejs.org" target="_blank" rel="no-referrer">
   <img src="https://github.com/user-attachments/assets/1e22b402-ff1a-4246-8b88-c34074c99932" alt="nodejs" width="40" height="40"/>
+</a>
+
+<a href="https://bun.sh/" target="_blank" rel="no-referrer">
+  <img src="https://github.com/user-attachments/assets/fdf7915f-6c1c-4a78-aa04-a994bd8ddc36" alt="bun" width="40" height="40"/>
 </a>
 
 <a href="https://expressjs.com" target="_blank" rel="no-referrer">
@@ -149,11 +153,15 @@
   <img src="https://github.com/user-attachments/assets/14dfc38a-8cba-4abd-8e44-7875bb5892dc" alt="Cloudfare" width="35" height="35"/>
 </a>
 
+<a href="https://workers.cloudflare.com/" target="_blank" rel="no-referrer">
+  <img src="https://github.com/user-attachments/assets/4b83d932-959c-46a2-bc17-21ff64164e30" alt="Cloudfare-Workers" width="35" height="35"/>
+</a>
+
 <a href="https://trpc.io/" target="_blank" rel="no-referrer">
   <img src="https://github.com/user-attachments/assets/fee03715-1a39-4967-95db-a2d6c0e97412" alt="tRPC" width="40" height="40"/>
 </a>
 
-<a href="https://www.cloudflare.com/" target="_blank" rel="no-referrer">
+<a href="https://grpc.io/" target="_blank" rel="no-referrer">
   <img src="https://github.com/user-attachments/assets/08efedc3-a2de-447f-a191-1c5cd12f5ec1" alt="gRPC" width="50" height="35"/>
 </a>
 
@@ -177,6 +185,10 @@
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
 </a>
 
+<a href="https://helm.sh" target="_blank" rel="no-referrer">
+  <img src="https://github.com/user-attachments/assets/cb32a0ff-6b17-4b59-8c69-14202f6d00de" alt="Helm" width="40" height="40"/>
+</a>
+
 <a href="https://www.nginx.com" target="_blank" rel="no-referrer">
   <img src="https://github.com/user-attachments/assets/7d00d2a8-7c9a-4642-8f46-c08ffdccbc6c" alt="nginx" width="40" height="40"/>
 </a>
@@ -197,8 +209,8 @@
   <img src="https://github.com/user-attachments/assets/5b584f4e-a744-4f6e-86c9-df645fccc83d" alt="azure" width="35" height="35"/>
 </a>
 
-<a href="https://git-scm.com/" target="_blank" rel="no-referrer">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<a href="https://www.linux.org/" target="_blank" rel="no-referrer">
+  <img src="https://github.com/user-attachments/assets/ead90fd3-9285-443c-9d7a-516224c402a8" alt="linux" width="40" height="40"/>
 </a>
 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="no-referrer">
@@ -214,6 +226,7 @@
   <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
 </a>
 -->
+
 <a href="https://www.ni.com/en/support/downloads/software-products/download.labview.html#544096" target="_blank" rel="no-referrer">
   <img src="https://github.com/user-attachments/assets/15ee00bc-10b0-4706-b9f8-6f16bc846c62" alt="labview" width="40" height="40"/>
 </a>
