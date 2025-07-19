@@ -6,9 +6,10 @@
 - 🔭 I’m currently working on **Mail.Send**
 - 📝 Check out My blogs on [Hashnode](https://mdsadiqmd.hashnode.dev/)
 - 📫 Reach out to me at **mohammadsadiq4950@gmail.com**
--->
+
 
 <h2 align="left">Connect with me:</h2>
+-->
 <p align="left">
   <a href="https://x.com/Md_Sadiq_Md" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=ClbD5JTFM7FA&format=png&color=000000)" alt="md_sadiq_md" height="50" width="50" /></a>
   <a href="https://mdsadiqmd.hashnode.dev/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=HnB8zGOh5xgd&format=png&color=000000" alt="mdsadiqmd.hashnode.dev" height="40" width="40" /></a>
@@ -233,6 +234,7 @@
 <!--
 <a href="https://github.com/mdsadiqmd/github-profile-trophy"><h2>🏆 GitHub Profile Trophy</h2></a>
 <a href="https://github.com/mdsadiqmd/github-profile-trophy" style='flex'><img width=800 src="https://github-profile-trophy.vercel.app/?username=mdsadiqmd&row=2&column=5&theme=gruvbox&no-frame=true"/></a>
--->
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsadiqmd&layout=compact&theme=tokyonight" alt="mdsadiqmd" /></p>
+-->
