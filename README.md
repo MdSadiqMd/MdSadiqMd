@@ -29,16 +29,16 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="35"/>
 </a>
 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="no-referrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="35"/>
+</a>
+
 <a href="https://www.rust-lang.org" target="_blank" rel="no-referrer">
   <img src="https://rustacean.net/assets/cuddlyferris.svg" alt="rust" width="40" height="40"/>
 </a>
 
 <a href="https://www.java.com" target="_blank" rel="no-referrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="no-referrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="35"/>
 </a>
 
 <a href="https://www.python.org" target="_blank" rel="no-referrer">
@@ -91,20 +91,16 @@
   <img src="https://github.com/user-attachments/assets/d4244519-7957-457d-b210-f709bedc12dd" alt="PostgreSQL" width="40" height="40"/>
 </a>
 
-<a href="https://firebase.google.com/" target="_blank" rel="no-referrer">
-  <img src="https://github.com/user-attachments/assets/a857817e-d202-4815-9b9c-e810e325b7ab" alt="firebase" width="40" height="40"/>
-</a>
-
 <a href="https://www.mongodb.com/" target="_blank" rel="no-referrer">
   <img src="https://github.com/user-attachments/assets/a16ceeef-a0dd-4635-9634-e87f56b5084e" alt="MongoDB" width="40" height="40"/>
 </a>
 
-<a href="https://redis.io" target="_blank" rel="no-referrer">
-  <img src="https://github.com/user-attachments/assets/1a412053-1790-4404-b517-3b67f56d4d69" alt="redis" width="40" height="40"/>
-</a>
-
 <a href="https://www.mysql.com/" target="_blank" rel="no-referrer">
   <img src="https://github.com/user-attachments/assets/28425577-be5d-44af-9471-5357c33c1edb" alt="MySQL" width="40" height="40"/>
+</a>
+
+<a href="https://redis.io" target="_blank" rel="no-referrer">
+  <img src="https://github.com/user-attachments/assets/1a412053-1790-4404-b517-3b67f56d4d69" alt="redis" width="40" height="40"/>
 </a>
 
 <a href="https://sequelize.org/" target="_blank" rel="no-referrer">
@@ -115,6 +111,10 @@
   <img src="https://github.com/user-attachments/assets/07d82b1d-3806-49ba-972d-a3249034be64" alt="Prisma ORM" width="40" height="40"/>
 </a>
 
+<a href="https://firebase.google.com/" target="_blank" rel="no-referrer">
+  <img src="https://github.com/user-attachments/assets/a857817e-d202-4815-9b9c-e810e325b7ab" alt="firebase" width="40" height="40"/>
+</a>
+
 <a href="https://nodejs.org" target="_blank" rel="no-referrer">
   <img src="https://github.com/user-attachments/assets/1e22b402-ff1a-4246-8b88-c34074c99932" alt="nodejs" width="40" height="40"/>
 </a>
@@ -123,17 +123,17 @@
   <img src="https://github.com/user-attachments/assets/fdf7915f-6c1c-4a78-aa04-a994bd8ddc36" alt="bun" width="40" height="40"/>
 </a>
 
+<a href="https://socket.io/" target="_blank" rel="no-referrer">
+  <img src="https://github.com/user-attachments/assets/a459b774-2030-4837-ad56-96ef062bda53" alt="socket.io" width="35" height="35"/>
+</a>
+
+<!--
 <a href="https://expressjs.com" target="_blank" rel="no-referrer">
   <img src="https://github.com/user-attachments/assets/2e6d95d6-53ea-4888-a4c9-4fea5d544c33" alt="express" width="40" height="40"/>
 </a>
 
 <a href="https://fastify.dev/" target="_blank" rel="no-referrer">
   <img src="https://github.com/user-attachments/assets/98b9d7c6-9e45-4f59-9995-eb3490adf478" alt="fastify" width="40" height="40"/>
-</a>
-
-<!--
-<a href="https://socket.io/" target="_blank" rel="no-referrer">
-  <img src="https://github.com/user-attachments/assets/47150c5b-a408-4646-9a18-b3daba554eca" alt="socket.io" width="40" height="40"/>
 </a>
 
 <a href="https://spring.io/" target="_blank" rel="no-referrer">
@@ -178,7 +178,7 @@
 </a>
 
 <a href="https://www.docker.com/" target="_blank" rel="no-referrer">
-  <img src="https://github.com/user-attachments/assets/c28cfbb0-470b-4aad-b117-07cc5ec162c1" alt="docker" width="40" height="40"/>
+  <img src="https://github.com/user-attachments/assets/2a4e897d-82f7-4d2b-a3f5-6c5c8c3fecbd" alt="docker" width="35" height="40"/>
 </a>
 
 <a href="https://kubernetes.io" target="_blank" rel="no-referrer">
