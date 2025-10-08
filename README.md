@@ -9,17 +9,18 @@
 
 
 <h2 align="left">Connect with me:</h2>
--->
+
 <p align="left">
   <a href="https://x.com/Md_Sadiq_Md" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=ClbD5JTFM7FA&format=png&color=000000)" alt="md_sadiq_md" height="50" width="50" /></a>
   <a href="https://mdsadiqmd.hashnode.dev/" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=HnB8zGOh5xgd&format=png&color=000000" alt="mdsadiqmd.hashnode.dev" height="40" width="40" /></a>
   <a href="https://www.linkedin.com/in/md-sadiq-md/" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/5399a4ba-cc8f-4773-9de2-f6e1e9281a45" alt="sadiq mohammad" height="40" width="40" /></a>
-  <!--
+
   <a href="https://instagram.com/md_sadiq_md" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="md_sadiq_md" height="40" width="40" /></a>
   -->
 </p>
-
+<!--
 <h2 align="left">Languages and Tools:</h2>
+-->
 <p align="left"> 
 <a href="https://go.dev/" target="_blank" rel="no-referrer">
   <img src="https://github.com/user-attachments/assets/6cf4230b-cb8d-47fb-b826-b356fb8ca292" alt="gloang" width="40" height="40"/>
